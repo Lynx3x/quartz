@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: 主页
 ---
 
 This is a blank Quartz installation.
