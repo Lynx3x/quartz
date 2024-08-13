@@ -49,7 +49,7 @@ source:
 
 在使用时，需要先把 RGB 色号写出来（例如 7C3AED），然后将其选中后，再调用模板
 
-<span style="color: 7C3AED">■</span> `#7C3AED`
+<span style="color: #7C3AED">■</span> `#7C3AED`
 
 也可以自行修改模板，将方块改为其他（例如圆形）、将方块之后，或者用什么东西包起来之类的
 ## 参考
